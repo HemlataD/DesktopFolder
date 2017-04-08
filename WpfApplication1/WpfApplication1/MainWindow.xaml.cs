@@ -26,7 +26,6 @@ namespace WpfApplication1
             // created new folderr
             //Changes 
             //int i = 0;
-            Console.WriteLine();
         }
     }
 }
